@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zunair Khawaja</h1>
+/*<h1 align="center">Hi 👋, I'm Zunair Khawaja</h1>
 <h3 align="center">A computer science enthusiast passionate about crafting innovative tech experiments. Exploring endless possibilities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khzunair&label=Profile%20views&color=0e75b6&style=flat" alt="khzunair" /> </p>
@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khzunair&" alt="khzunair" /></p>
 
-
+*/
