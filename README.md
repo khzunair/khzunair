@@ -48,17 +48,4 @@
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khzunair&show_icons=true&locale=en&layout=compact" alt="khzunair" />
-</p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khzunair&show_icons=true&locale=en" alt="khzunair" /></p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khzunair&" alt="khzunair" />
 </p>
