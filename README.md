@@ -49,3 +49,8 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
+
+<h3 align="left">Languages Used:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khzunair&layout=compact&theme=radical" alt="khzunair" />
+</p>
