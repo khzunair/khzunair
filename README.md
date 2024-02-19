@@ -16,9 +16,11 @@
   <a href="https://instagram.com/zunair.khawajaa" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zunair.khawajaa" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/zunairkhawaja" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zunairkhawaja" height="30" width="40" />
-  </a>
+</p>
+
+<h3 align="left">Portfolio:</h3>
+<p align="left">
+  <a href="https://khzunair.github.io" target="_blank">khzunair.github.io</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,7 +57,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khzunair&show_icons=true&locale=en&layout=compact" alt="khzunair" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khzunair&show_icons=true&locale=en" alt="khzunair" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khzunair&show_icons=true&locale=en" alt="khzunair" /></p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khzunair&" alt="khzunair" />
