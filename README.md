@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=khzunair&label=Profile%20views&color=0e75b6&style=flat" alt="khzunair" />
 </p>
 
-- 🔭 I’m currently working on **Web Systems**
-- 🌱 I’m currently learning **AI/ Machine Learning**
+- 🔭 I’m experienced working on **Web Systems**
+- 🌱 I’m currently learning **AI / Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
