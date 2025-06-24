@@ -1,110 +1,93 @@
-<h1 align="center">Hi there, I'm Zunair Khawaja 👋</h1>
-<h3 align="center">🚀 Software Developer | 💻 Full Stack Engineer | 🤖 AI/ML Enthusiast</h3>
+<h1 align="center">Hi, I'm Zunair Khawaja 👋</h1>
+<h3 align="center">💻 Full Stack JavaScript Developer | 🎓 CS Graduate '25 | 🤖 AI/ML Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khzunair&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=khzunair&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-### 🧠 About Me
+### 🚀 About Me
 
-- 🎓 Final Year BSCS Student at University of Gujrat (2021–2025)
-- 💼 Software Developer with experience in **web & mobile app development**
-- 🧠 Currently exploring advanced **AI / Machine Learning** and **RAG-based systems**
-- 🌿 FYP: **AI-Powered Plant Disease Detection & Marketplace App**
-- 💬 Passionate about **solving real-world problems** with scalable solutions
-- 🚀 Delivered software to over **500+ users** through international freelance projects
-
----
-
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/zunair-bin-zubair-9059421a3" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/zunair.khawajaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+- 🎓 Computer Science Graduate (May 2025) — University of Gujrat  
+- 🧠 Passionate about solving real-world problems using **JavaScript & AI/ML**  
+- 🛠 I specialize in **building scalable full-stack applications** with third-party integrations  
+- 🧪 Currently exploring **Supabase, AI-powered systems, and system architecture**  
+- 🖥️ Focused on clean code, UI/UX, and performance optimization  
 
 ---
 
-### 🌍 Portfolio
+### 🛠️ Tech Stack
 
-🔗 [https://khzunair.github.io](https://khzunair.github.io)
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
----
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 
-### 🛠️ Skills
+**Backend & APIs:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)  
+![Third-Party APIs](https://img.shields.io/badge/-3rd%20Party%20APIs-FF6F61)
 
-**Languages & Frameworks:**
-- JavaScript, TypeScript, Python, Java, C++
-- React.js, React Native, Node.js, Express, Next.js, Spring Boot, Flask
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-**AI/ML Tools:**
-- NumPy, Pandas, Matplotlib, Python, RAG (Retrieval-Augmented Generation)
+**AI/ML Tools:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C)
 
-**Databases & Cloud:**
-- MongoDB, MySQL, PostgreSQL, Firebase, AWS, Cloudinary, Heroku
-
-**DevOps & Tools:**
-- Git, GitHub, Docker, Figma, Linux, CI/CD (Heroku)
-
----
-
-### 💼 Experience Highlights
-
-**Software Developer - Imam Organization (Remote UK)**  
-_Nov 2024 – Jan 2025_  
-- Built a Madrassa Management System used by 500+ users  
-- Developed secure multi-role JWT auth, scalable cloud storage (AWS, Cloudinary)  
-- Designed test system handling 500+ test submissions/month
-
-**Software Developer - MedEdPort (Remote USA)**  
-_Sep 2023 – Dec 2024_  
-- Real-time portal for medical content with secure auth  
-- Engineered media upload system (40% speed improvement)  
-- CI/CD via Heroku & full SDLC management
+**Tools:**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
 ### 💡 Projects
 
-**🌿 Planteria – AI-Powered Plant Disease Detection & Marketplace**  
-- Mobile app + e-commerce with 90% disease detection accuracy  
-- Stack: React Native, Flask, Node.js, MongoDB
+#### 🌿 Planteria – AI-Powered Plant Disease Detection & Marketplace  
+AI-based mobile app with 90% accuracy disease detection + vendor marketplace.  
+**Stack:** React Native · Flask · Node.js · MongoDB  
 
-**⚙️ HireFlow – AI Resume Scoring & Filtering System**  
-- Built during Google Hackathon in 24 hours  
-- Stack: React, Flask, Node.js, MongoDB, RAG
-
----
-
-### 🏅 Leadership & Volunteering
-
-- **General Secretary – Hayatian Computing Society**  
-  Organized 10+ events, Hackathons, and FYP Exhibitions (400+ participants)
-
-- **Campus Ambassador – DAIRA’25, FAST NUCES**  
-  Led a 50-member student delegation; handled PKR 150,000+ event funds
+#### ⚙️ HireFlow – AI Resume Scoring & Filtering System  
+Built at Google Hackathon — smart resume filtering using RAG & ML.  
+**Stack:** React · Flask · Node.js · MongoDB · RAG (Retrieval-Augmented Generation)
 
 ---
 
-### 📜 Certifications
-
-- React Native – ULSA  
-- Project Management – Google (Foundations, Initiation)  
-- Python – DataCamp  
-- Packet Tracer – Cisco  
-- Microsoft Office Specialist – Microsoft
-
----
-
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khzunair&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khzunair&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/zunair-bin-zubair-9059421a3" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/zunair.khawajaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+### 🌐 Portfolio  
+🔗 [khzunair.github.io](https://khzunair.github.io)
 
