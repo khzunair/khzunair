@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Zunair Khawaja 👋</h1>
-<h3 align="center">🚀 Computer Science Student | 💻 Full Stack Developer | 🤖 AI/ML Enthusiast</h3>
+<h3 align="center">🚀 Software Developer | 💻 Full Stack Engineer | 🤖 AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khzunair&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,15 +9,16 @@
 
 ### 🧠 About Me
 
-- 🔭 I have experience building **Web Applications, RESTful APIs, and Mobile Apps**
-- 🌱 Currently diving deeper into **AI / Machine Learning**
-- 🛠 Passionate about turning **ideas into reality** using tech
-- 📚 Final Year BSCS student working on a **Plant Disease Detection & Marketplace App**
-- ⚙️ I enjoy working with scalable architectures, problem-solving, and system design
+- 🎓 Final Year BSCS Student at University of Gujrat (2021–2025)
+- 💼 Software Developer with experience in **web & mobile app development**
+- 🧠 Currently exploring advanced **AI / Machine Learning** and **RAG-based systems**
+- 🌿 FYP: **AI-Powered Plant Disease Detection & Marketplace App**
+- 💬 Passionate about **solving real-world problems** with scalable solutions
+- 🚀 Delivered software to over **500+ users** through international freelance projects
 
 ---
 
-### 🌐 Connect with Me
+### 🔗 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/zunair-bin-zubair-9059421a3" target="_blank">
@@ -30,53 +31,74 @@
 
 ---
 
-### 🌟 Portfolio
+### 🌍 Portfolio
 
-📎 [khzunair.github.io](https://khzunair.github.io)
+🔗 [https://khzunair.github.io](https://khzunair.github.io)
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Skills
 
 **Languages & Frameworks:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</p>
+- JavaScript, TypeScript, Python, Java, C++
+- React.js, React Native, Node.js, Express, Next.js, Spring Boot, Flask
+
+**AI/ML Tools:**
+- NumPy, Pandas, Matplotlib, Python, RAG (Retrieval-Augmented Generation)
 
 **Databases & Cloud:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/>
-</p>
+- MongoDB, MySQL, PostgreSQL, Firebase, AWS, Cloudinary, Heroku
 
-**Tools & Platforms:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-</p>
+**DevOps & Tools:**
+- Git, GitHub, Docker, Figma, Linux, CI/CD (Heroku)
 
-**AI/ML:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</p>
+---
+
+### 💼 Experience Highlights
+
+**Software Developer - Imam Organization (Remote UK)**  
+_Nov 2024 – Jan 2025_  
+- Built a Madrassa Management System used by 500+ users  
+- Developed secure multi-role JWT auth, scalable cloud storage (AWS, Cloudinary)  
+- Designed test system handling 500+ test submissions/month
+
+**Software Developer - MedEdPort (Remote USA)**  
+_Sep 2023 – Dec 2024_  
+- Real-time portal for medical content with secure auth  
+- Engineered media upload system (40% speed improvement)  
+- CI/CD via Heroku & full SDLC management
+
+---
+
+### 💡 Projects
+
+**🌿 Planteria – AI-Powered Plant Disease Detection & Marketplace**  
+- Mobile app + e-commerce with 90% disease detection accuracy  
+- Stack: React Native, Flask, Node.js, MongoDB
+
+**⚙️ HireFlow – AI Resume Scoring & Filtering System**  
+- Built during Google Hackathon in 24 hours  
+- Stack: React, Flask, Node.js, MongoDB, RAG
+
+---
+
+### 🏅 Leadership & Volunteering
+
+- **General Secretary – Hayatian Computing Society**  
+  Organized 10+ events, Hackathons, and FYP Exhibitions (400+ participants)
+
+- **Campus Ambassador – DAIRA’25, FAST NUCES**  
+  Led a 50-member student delegation; handled PKR 150,000+ event funds
+
+---
+
+### 📜 Certifications
+
+- React Native – ULSA  
+- Project Management – Google (Foundations, Initiation)  
+- Python – DataCamp  
+- Packet Tracer – Cisco  
+- Microsoft Office Specialist – Microsoft
 
 ---
 
